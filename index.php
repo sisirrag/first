@@ -98,7 +98,7 @@
         </div>
       </div>
     </div>
-    
+</div>
     <div class="card" style="width: 18rem;">
       <img src="https://images.pexels.com/photos/1072179/pexels-photo-1072179.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" class="card-img-top" alt="...">
       <div class="card-body">
