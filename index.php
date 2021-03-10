@@ -98,23 +98,7 @@
         </div>
       </div>
     </div>
-    <div class="col col-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
-                <table class="table table-borderless">
-                    
-                <tr>
-                    <td>Admission No.</td>
-                    <td><input type="text" class="form-control"></td>
-                </tr>
-                <tr>
-                    <td>Password</td>
-                    <td><input type="password" class="form-control"></td>
-                </tr>
-                <tr>
-                    <td></td>
-                    <td><button class="btn btn-primary">Login</button></td>
-                </tr>
-            </table>
-        </div>
+    
     <div class="card" style="width: 18rem;">
       <img src="https://images.pexels.com/photos/1072179/pexels-photo-1072179.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" class="card-img-top" alt="...">
       <div class="card-body">
